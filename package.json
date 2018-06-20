@@ -1,0 +1,19 @@
+{
+  "name": "RockPaperScissors",
+  "version": "0.0.3",
+  "description": "RockPaperScissors",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "npm": "^6.1.0",
+    "truffle": "^4.1.11",
+    "web3": "0.20.4"
+  },
+  "devDependencies": {
+    "assert-plus": "^1.0.0",
+    "ganache-cli": "6.0.3",
+    "mocha": "^5.0.0"
+  }
+}
